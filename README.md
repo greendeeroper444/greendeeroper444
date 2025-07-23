@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Objective  
-Motivated IT graduate with solid full-stack development experience. Passionate about secure, scalable software architecture and clean code. Eager to grow through real-world projects and best practices toward a senior developer role.
+Motivated and results-driven IT graduate with solid full-stack development expertise across multiple technologies. Dedicated to mastering advanced programming concepts such as modern software architecture, clean and maintainable code, secure API development, and scalable database design. Eager to contribute technical proficiency and creativity to impactful projects, whether working independently or collaboratively. Committed to continuous growth toward a senior developer role through real-world experience and best engineering practices.  
 
 ---
 
@@ -64,3 +64,4 @@ Davao del Norte State College, Panabo City
 - Developed strong client service and time management
 
 ---
+
